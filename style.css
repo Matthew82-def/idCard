@@ -7,12 +7,13 @@
     width: 20em;
     box-shadow:  -10px -10px 5px #1af11a ;
     bottom: 110%;
- 
+    border-radius: 25px;
 }
 label{
     /* color: rgba(216, 8, 8, 0.932); */
    
     color: #B3B6B7 ;
+  
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 html{
@@ -29,12 +30,17 @@ html{
   height: 14em;
   width: 25em;
   background-color: rgb(149, 179, 179);
-
+  color:rgb(247, 243, 243);
   border-radius: 25px;
   font-family:'Allan';
-  opacity: 0.5;
+  opacity: 25;
   box-shadow:  12px 13px 5px #1af11a;
   bottom: 85%;
+  color: #bc2e1e;
+background: #edde9c;
+text-shadow: 0 1px 0px #378ab4, 1px 0 0px #5dabcd, 1px 2px 1px #378ab4, 2px 1px 1px #5dabcd, 2px 3px 2px #378ab4, 3px 2px 2px #5dabcd, 3px 4px 2px #378ab4, 4px 3px 3px #5dabcd, 4px 5px 3px #378ab4, 5px 4px 2px #5dabcd, 5px 6px 2px #378ab4, 6px 5px 2px #5dabcd, 6px 7px 1px #378ab4, 7px 6px 1px #5dabcd, 7px 8px 0px #378ab4, 8px 7px 0px #5dabcd;
+color: #110f0e;
+background: #91908b;
 }
 #postPhoneNumber{
     margin: center;
@@ -95,5 +101,13 @@ html{
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
+  }
+  button{
+    background-color: #A9A9A9;
+    border-radius: 25px;
+    box-shadow:  5px 5px 5px #d6d6d0;
+  }
+  input{
+    border-radius: 85px;
   }
  
