@@ -1,0 +1,99 @@
+
+#container{
+    text-align: center;
+    border: 2px solid rgb(61, 71, 214);
+    margin: auto;
+    height: 16em;
+    width: 20em;
+    box-shadow:  -10px -10px 5px #1af11a ;
+    bottom: 110%;
+ 
+}
+label{
+    /* color: rgba(216, 8, 8, 0.932); */
+   
+    color: #B3B6B7 ;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+html{
+    background: url("https://img.freepik.com/free-vector/minimal-geometric-stripe-shape-background_1409-1014.jpg?auto=format&h=200") no-repeat center center fixed; 
+  -webkit-background-size: 50px;
+  -moz-background-size: 50px;
+  -o-background-size: 50px;
+  background-size: 1550px
+}
+#idCard{
+    border: 5px solid rgb(255, 255, 255);
+  margin: auto;
+  
+  height: 14em;
+  width: 25em;
+  background-color: rgb(149, 179, 179);
+
+  border-radius: 25px;
+  font-family:'Allan';
+  opacity: 0.5;
+  box-shadow:  12px 13px 5px #1af11a;
+  bottom: 85%;
+}
+#postPhoneNumber{
+    margin: center;
+    font-weight: bold;
+    margin: 0;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+    padding-right: 5px;
+}
+#postAddress{
+    margin: 0;
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+    padding-right: 5px;
+  }
+  
+  #postFullName{
+    text-align: right;
+    margin-right: 125px;
+    font-weight: bolder;
+    font-size: 25px;
+  }
+  
+  #postAge {
+    padding-top:30px;
+    margin-left:5px;
+    font-weight: bold;
+    margin: 0;
+    position: absolute;
+    top: 53%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+    padding-right: 5px;
+  }
+  img {
+    width: 90px;
+    height: 90px;
+    position:absolute;
+    bottom: 45%;
+    float: left;
+    opacity: 0.8;
+
+  }
+  .center {
+    margin: 0;
+    position: absolute;
+    top: 33%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+ 
