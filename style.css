@@ -32,8 +32,8 @@ html{
   background-color: rgb(149, 179, 179);
   color:rgb(247, 243, 243);
   border-radius: 25px;
-  font-family:'Allan';
-  opacity: 25;
+  font-family: 'Tangerine', serif;
+  opacity: 0.5;
   box-shadow:  12px 13px 5px #1af11a;
   bottom: 85%;
   color: #bc2e1e;
@@ -53,6 +53,7 @@ background: #91908b;
     transform: translate(-50%, -50%);
     font-weight: bold;
     padding-right: 5px;
+    font-size: 25px;
 }
 #postAddress{
     margin: 0;
@@ -63,13 +64,14 @@ background: #91908b;
     transform: translate(-50%, -50%);
     font-weight: bold;
     padding-right: 5px;
+    font-size: 25px;
   }
   
   #postFullName{
     text-align: right;
     margin-right: 125px;
     font-weight: bolder;
-    font-size: 25px;
+    font-size: 40px;
   }
   
   #postAge {
@@ -84,6 +86,7 @@ background: #91908b;
     transform: translate(-50%, -50%);
     font-weight: bold;
     padding-right: 5px;
+    font-size: 25px;
   }
   img {
     width: 90px;
